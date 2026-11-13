@@ -1,0 +1,13 @@
+[
+  {
+    "file": "exposure.fits",
+    "exposure": "exposure-a",
+    "release": 1
+  },
+  {
+    "file": "quality-only.fits",
+    "exposure": "exposure-a",
+    "release": 2,
+    "partial": true
+  }
+]
